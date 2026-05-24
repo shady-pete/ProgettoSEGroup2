@@ -77,4 +77,3 @@ java -jar "SCRUM ARTIFACTS AND PROJ FILES/Terza Sprint/ProgettoSEGroup2.jar"
 
 ## Link Utili
 *   **Trello:** [Board di Progetto](https://trello.com/b/PUTic1v3/work-project)
-*   **GitHub:** [Repository](https://github.com/Antuke/ProgettoSEGroup2)
